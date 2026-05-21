@@ -1,0 +1,57 @@
+Participant: DianeYork
+------------------------------
+Age: 73
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 93.75 BPM
+Pitch Variation: 222.96
+MFCC Score: 79.62
+Energy Variation: 0.0120
+Rhythm Score: 0.17
+Avg Pause Duration: 0.24s
+Pause Frequency: 1.62/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 21.54
+MFCC Mean: -12.94
+MFCC Skewness: -5.65
+MFCC Kurtosis: 37.01
+Energy Mean: 0.0142
+Zero Crossing Rate: 0.1458
+Total Pauses: 97
+Longest Pause: 3.46s
+Pause Variability: 0.47
+
+TRANSCRIPTION ANALYSIS
+Word Count: 135
+Average Word Length: 3.81
+Sentence Count: 5
+Average Sentence Length: 27.00
+Unique Words: 85
+Vocabulary Richness: 0.63
+
+RISK ASSESSMENT
+Overall Score: 11/50
+
+Risk Factors Detected:
+- Age 70-74 (moderate risk)
+- Slow speech rate (<100 BPM)
+- Low MFCC variability (<80)
+- Low energy variation (<0.02)
+- Weak rhythm patterns (<0.2)
+
+DIAGNOSTIC ASSESSMENT: NO - NORMAL PATTERNS
+Explanation: Speech patterns within normal range for age
+
+CLINICAL INTERPRETATION
+Speech Rate: Below normal - possible mild cognitive decline
+Pitch Variation: Normal prosodic range
+Energy Variation: Reduced vocal dynamics - mild concern
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+LOW PRIORITY - Continued monitoring advised
+Routine health monitoring
+Repeat assessment in 12-24 months
+Maintain healthy lifestyle practices

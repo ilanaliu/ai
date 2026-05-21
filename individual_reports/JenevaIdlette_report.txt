@@ -1,0 +1,58 @@
+Participant: JenevaIdlette
+------------------------------
+Age: 93
+Health Status: early_alzheimers
+
+ACOUSTIC SCORES
+Speech Rate: 93.75 BPM
+Pitch Variation: 237.55
+MFCC Score: 102.55
+Energy Variation: 0.0031
+Rhythm Score: 0.20
+Avg Pause Duration: 3.27s
+Pause Frequency: 0.26/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 27.79
+MFCC Mean: -15.12
+MFCC Skewness: -6.09
+MFCC Kurtosis: 38.84
+Energy Mean: 0.0025
+Zero Crossing Rate: 0.1340
+Total Pauses: 8
+Longest Pause: 10.34s
+Pause Variability: 3.21
+
+TRANSCRIPTION ANALYSIS
+Word Count: 61
+Average Word Length: 4.08
+Sentence Count: 12
+Average Sentence Length: 5.08
+Unique Words: 49
+Vocabulary Richness: 0.80
+
+RISK ASSESSMENT
+Overall Score: 36/50
+
+Risk Factors Detected:
+- Age 90+ (very high risk)
+- CONFIRMED: Early Alzheimer's diagnosis
+- Slow speech rate (<100 BPM)
+- Extremely low energy variation (<0.005)
+- Weak rhythm patterns (<0.2)
+- Excessive pause duration (>2s average)
+
+DIAGNOSTIC ASSESSMENT: YES - CONFIRMED ALZHEIMER'S
+Explanation: Based on medical diagnosis
+
+CLINICAL INTERPRETATION
+Speech Rate: Below normal - possible mild cognitive decline
+Pitch Variation: Normal prosodic range
+Energy Variation: Severely monotonic speech - concerning for dementia
+Pause Patterns: Excessive hesitation - may indicate word-finding difficulties
+
+RECOMMENDATION
+URGENT - Immediate neurological evaluation required
+Contact neurologist or geriatrician within 48 hours
+Consider comprehensive cognitive assessment (MoCA, MMSE)
+Brain imaging may be warranted

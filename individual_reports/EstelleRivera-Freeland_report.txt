@@ -1,0 +1,48 @@
+Participant: EstelleRivera-Freeland
+------------------------------
+Age: 81
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 81.52 BPM
+Pitch Variation: 153.28
+MFCC Score: 95.12
+Energy Variation: 0.0043
+Rhythm Score: 0.23
+Avg Pause Duration: 0.69s
+Pause Frequency: 1.10/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 13.37
+MFCC Mean: -14.62
+MFCC Skewness: -5.65
+MFCC Kurtosis: 34.99
+Energy Mean: 0.0054
+Zero Crossing Rate: 0.1451
+Total Pauses: 42
+Longest Pause: 3.71s
+Pause Variability: 0.83
+
+RISK ASSESSMENT
+Overall Score: 20/50
+
+Risk Factors Detected:
+- Age 80-89 (high risk)
+- Very slow speech rate (<90 BPM)
+- Very low pitch variation (<180)
+- Extremely low energy variation (<0.005)
+
+DIAGNOSTIC ASSESSMENT: MILD COGNITIVE CONCERNS
+Explanation: Some patterns detected - monitor closely
+
+CLINICAL INTERPRETATION
+Speech Rate: Below normal - possible mild cognitive decline
+Pitch Variation: Reduced prosody - possible early cognitive changes
+Energy Variation: Severely monotonic speech - concerning for dementia
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+MODERATE PRIORITY - Further evaluation suggested
+Discuss findings with primary care physician
+Annual cognitive screening recommended
+Monitor for changes in daily functioning

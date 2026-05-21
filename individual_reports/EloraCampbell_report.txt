@@ -1,0 +1,58 @@
+Participant: EloraCampbell
+------------------------------
+Age: 75
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 89.29 BPM
+Pitch Variation: 198.52
+MFCC Score: 98.87
+Energy Variation: 0.0056
+Rhythm Score: 0.18
+Avg Pause Duration: 1.54s
+Pause Frequency: 0.56/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 20.26
+MFCC Mean: -14.09
+MFCC Skewness: -6.24
+MFCC Kurtosis: 40.14
+Energy Mean: 0.0038
+Zero Crossing Rate: 0.1543
+Total Pauses: 22
+Longest Pause: 8.77s
+Pause Variability: 1.98
+
+TRANSCRIPTION ANALYSIS
+Word Count: 33
+Average Word Length: 4.24
+Sentence Count: 1
+Average Sentence Length: 33.00
+Unique Words: 24
+Vocabulary Richness: 0.73
+
+RISK ASSESSMENT
+Overall Score: 18/50
+
+Risk Factors Detected:
+- Age 75-79 (elevated risk)
+- Very slow speech rate (<90 BPM)
+- Low pitch variation (<200)
+- Very low energy variation (<0.01)
+- Weak rhythm patterns (<0.2)
+- Long pause duration (>1.5s average)
+
+DIAGNOSTIC ASSESSMENT: MILD COGNITIVE CONCERNS
+Explanation: Some patterns detected - monitor closely
+
+CLINICAL INTERPRETATION
+Speech Rate: Below normal - possible mild cognitive decline
+Pitch Variation: Reduced prosody - possible early cognitive changes
+Energy Variation: Reduced vocal dynamics - mild concern
+Pause Patterns: Elevated hesitation - mild language processing concern
+
+RECOMMENDATION
+MODERATE PRIORITY - Further evaluation suggested
+Discuss findings with primary care physician
+Annual cognitive screening recommended
+Monitor for changes in daily functioning

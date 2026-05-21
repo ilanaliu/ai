@@ -1,0 +1,138 @@
+Comprehensive Analysis Report
+==============================
+
+Files Analyzed:
+--------------------
+AnettaBernard
+Cluster: 1
+Features: {'mfcc_mean': np.float32(-14.72174), 'pitch_mean': np.float32(23.662992), 'mel_mean': np.float32(0.0105402665), 'duration': 40.898}
+
+AnnieWebb
+Cluster: 0
+Features: {'mfcc_mean': np.float32(-14.971108), 'pitch_mean': np.float32(9.183911), 'mel_mean': np.float32(0.0034235225), 'duration': 32.578}
+
+DianeYork
+Cluster: 0
+Features: {'mfcc_mean': np.float32(-12.939246), 'pitch_mean': np.float32(21.542683), 'mel_mean': np.float32(0.089810446), 'duration': 60.0}
+
+EloraCampbell
+Cluster: 0
+Features: {'mfcc_mean': np.float32(-14.091731), 'pitch_mean': np.float32(20.262835), 'mel_mean': np.float32(0.011600213), 'duration': 39.312}
+
+InildaPena
+Cluster: 2
+Features: {'mfcc_mean': np.float32(-12.814396), 'pitch_mean': np.float32(14.616006), 'mel_mean': np.float32(0.020589145), 'duration': 55.354}
+
+JenevaIdlette
+Cluster: 2
+Features: {'mfcc_mean': np.float32(-15.115914), 'pitch_mean': np.float32(27.790382), 'mel_mean': np.float32(0.0039088256), 'duration': 30.888}
+
+JoanMcnish
+Cluster: 2
+Features: {'mfcc_mean': np.float32(-15.595949), 'pitch_mean': np.float32(38.14268), 'mel_mean': np.float32(0.010710957), 'duration': 24.1538125}
+
+KatherineDowningAhmed
+Cluster: 0
+Features: {'mfcc_mean': np.float32(-13.382379), 'pitch_mean': np.float32(26.040295), 'mel_mean': np.float32(0.017137604), 'duration': 122.694}
+
+LuceMedina
+Cluster: 0
+Features: {'mfcc_mean': np.float32(-6.032867), 'pitch_mean': np.float32(20.466042), 'mel_mean': np.float32(5.197555), 'duration': 13.598}
+
+MargheritaHerrera
+Cluster: 2
+Features: {'mfcc_mean': np.float32(-14.964545), 'pitch_mean': np.float32(16.040613), 'mel_mean': np.float32(0.0017798801), 'duration': 43.0039375}
+
+SueHurse
+Cluster: 2
+Features: {'mfcc_mean': np.float32(-12.491242), 'pitch_mean': np.float32(24.550453), 'mel_mean': np.float32(0.016791856), 'duration': 55.5099375}
+
+ValerieHutchinson
+Cluster: 0
+Features: {'mfcc_mean': np.float32(-13.289005), 'pitch_mean': np.float32(30.98569), 'mel_mean': np.float32(0.019181415), 'duration': 55.952}
+
+VioletaJakab
+Cluster: 2
+Features: {'mfcc_mean': np.float32(-12.118235), 'pitch_mean': np.float32(15.760916), 'mel_mean': np.float32(0.09721412), 'duration': 54.678}
+
+
+Similarity Analysis:
+--------------------
+AnettaBernard vs AnnieWebb: -27.15% similar
+AnettaBernard vs DianeYork: -10.97% similar
+AnettaBernard vs EloraCampbell: -0.27% similar
+AnettaBernard vs InildaPena: -7.82% similar
+AnettaBernard vs JenevaIdlette: -37.65% similar
+AnettaBernard vs JoanMcnish: 3.29% similar
+AnettaBernard vs KatherineDowningAhmed: -2.64% similar
+AnettaBernard vs LuceMedina: -30.09% similar
+AnettaBernard vs MargheritaHerrera: -3.24% similar
+AnettaBernard vs SueHurse: 0.87% similar
+AnettaBernard vs ValerieHutchinson: -7.02% similar
+AnettaBernard vs VioletaJakab: -10.53% similar
+AnnieWebb vs DianeYork: -9.82% similar
+AnnieWebb vs EloraCampbell: -6.38% similar
+AnnieWebb vs InildaPena: 2.32% similar
+AnnieWebb vs JenevaIdlette: -8.93% similar
+AnnieWebb vs JoanMcnish: -20.41% similar
+AnnieWebb vs KatherineDowningAhmed: 5.54% similar
+AnnieWebb vs LuceMedina: 5.98% similar
+AnnieWebb vs MargheritaHerrera: -10.54% similar
+AnnieWebb vs SueHurse: -13.55% similar
+AnnieWebb vs ValerieHutchinson: 2.29% similar
+AnnieWebb vs VioletaJakab: -9.14% similar
+DianeYork vs EloraCampbell: -11.22% similar
+DianeYork vs InildaPena: -19.31% similar
+DianeYork vs JenevaIdlette: -24.98% similar
+DianeYork vs JoanMcnish: 2.00% similar
+DianeYork vs KatherineDowningAhmed: 31.51% similar
+DianeYork vs LuceMedina: -22.82% similar
+DianeYork vs MargheritaHerrera: 3.52% similar
+DianeYork vs SueHurse: -18.82% similar
+DianeYork vs ValerieHutchinson: 9.15% similar
+DianeYork vs VioletaJakab: 18.96% similar
+EloraCampbell vs InildaPena: -4.54% similar
+EloraCampbell vs JenevaIdlette: -4.71% similar
+EloraCampbell vs JoanMcnish: 14.15% similar
+EloraCampbell vs KatherineDowningAhmed: -14.91% similar
+EloraCampbell vs LuceMedina: -8.38% similar
+EloraCampbell vs MargheritaHerrera: -22.15% similar
+EloraCampbell vs SueHurse: -26.25% similar
+EloraCampbell vs ValerieHutchinson: -21.62% similar
+EloraCampbell vs VioletaJakab: -11.90% similar
+InildaPena vs JenevaIdlette: -0.33% similar
+InildaPena vs JoanMcnish: -0.76% similar
+InildaPena vs KatherineDowningAhmed: -17.41% similar
+InildaPena vs LuceMedina: -6.23% similar
+InildaPena vs MargheritaHerrera: -22.60% similar
+InildaPena vs SueHurse: -11.29% similar
+InildaPena vs ValerieHutchinson: -4.44% similar
+InildaPena vs VioletaJakab: -3.36% similar
+JenevaIdlette vs JoanMcnish: -15.18% similar
+JenevaIdlette vs KatherineDowningAhmed: -6.95% similar
+JenevaIdlette vs LuceMedina: 39.34% similar
+JenevaIdlette vs MargheritaHerrera: -25.17% similar
+JenevaIdlette vs SueHurse: -8.69% similar
+JenevaIdlette vs ValerieHutchinson: -9.03% similar
+JenevaIdlette vs VioletaJakab: -23.83% similar
+JoanMcnish vs KatherineDowningAhmed: -19.71% similar
+JoanMcnish vs LuceMedina: -29.99% similar
+JoanMcnish vs MargheritaHerrera: -7.79% similar
+JoanMcnish vs SueHurse: 2.64% similar
+JoanMcnish vs ValerieHutchinson: -11.99% similar
+JoanMcnish vs VioletaJakab: -26.36% similar
+KatherineDowningAhmed vs LuceMedina: -9.11% similar
+KatherineDowningAhmed vs MargheritaHerrera: -24.35% similar
+KatherineDowningAhmed vs SueHurse: -21.44% similar
+KatherineDowningAhmed vs ValerieHutchinson: 16.69% similar
+KatherineDowningAhmed vs VioletaJakab: -17.21% similar
+LuceMedina vs MargheritaHerrera: -29.07% similar
+LuceMedina vs SueHurse: -15.60% similar
+LuceMedina vs ValerieHutchinson: -11.59% similar
+LuceMedina vs VioletaJakab: -15.97% similar
+MargheritaHerrera vs SueHurse: 35.56% similar
+MargheritaHerrera vs ValerieHutchinson: -14.08% similar
+MargheritaHerrera vs VioletaJakab: 49.77% similar
+SueHurse vs ValerieHutchinson: -18.83% similar
+SueHurse vs VioletaJakab: 10.85% similar
+ValerieHutchinson vs VioletaJakab: -19.23% similar

@@ -1,0 +1,56 @@
+Participant: InildaPena
+------------------------------
+Age: 75
+Health Status:  no_history
+
+ACOUSTIC SCORES
+Speech Rate: 208.33 BPM
+Pitch Variation: 164.33
+MFCC Score: 88.99
+Energy Variation: 0.0064
+Rhythm Score: 0.18
+Avg Pause Duration: 0.71s
+Pause Frequency: 0.99/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 14.62
+MFCC Mean: -12.81
+MFCC Skewness: -5.89
+MFCC Kurtosis: 37.16
+Energy Mean: 0.0062
+Zero Crossing Rate: 0.1265
+Total Pauses: 55
+Longest Pause: 4.10s
+Pause Variability: 0.86
+
+TRANSCRIPTION ANALYSIS
+Word Count: 162
+Average Word Length: 3.88
+Sentence Count: 8
+Average Sentence Length: 20.25
+Unique Words: 48
+Vocabulary Richness: 0.30
+
+RISK ASSESSMENT
+Overall Score: 15/50
+
+Risk Factors Detected:
+- Age 75-79 (elevated risk)
+- Very low pitch variation (<180)
+- Very low energy variation (<0.01)
+- Weak rhythm patterns (<0.2)
+
+DIAGNOSTIC ASSESSMENT: MILD COGNITIVE CONCERNS
+Explanation: Some patterns detected - monitor closely
+
+CLINICAL INTERPRETATION
+Speech Rate: Elevated - may indicate anxiety or compensatory behavior
+Pitch Variation: Reduced prosody - possible early cognitive changes
+Energy Variation: Reduced vocal dynamics - mild concern
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+MODERATE PRIORITY - Further evaluation suggested
+Discuss findings with primary care physician
+Annual cognitive screening recommended
+Monitor for changes in daily functioning

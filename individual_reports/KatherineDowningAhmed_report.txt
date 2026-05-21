@@ -1,0 +1,55 @@
+Participant: KatherineDowningAhmed
+------------------------------
+Age: 77
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 144.23 BPM
+Pitch Variation: 238.79
+MFCC Score: 89.96
+Energy Variation: 0.0064
+Rhythm Score: 0.20
+Avg Pause Duration: 0.79s
+Pause Frequency: 0.97/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 26.04
+MFCC Mean: -13.38
+MFCC Skewness: -6.04
+MFCC Kurtosis: 38.42
+Energy Mean: 0.0052
+Zero Crossing Rate: 0.1770
+Total Pauses: 119
+Longest Pause: 6.18s
+Pause Variability: 1.05
+
+TRANSCRIPTION ANALYSIS
+Word Count: 181
+Average Word Length: 3.90
+Sentence Count: 7
+Average Sentence Length: 25.86
+Unique Words: 107
+Vocabulary Richness: 0.59
+
+RISK ASSESSMENT
+Overall Score: 12/50
+
+Risk Factors Detected:
+- Age 75-79 (elevated risk)
+- Very low energy variation (<0.01)
+- Weak rhythm patterns (<0.2)
+
+DIAGNOSTIC ASSESSMENT: NO - NORMAL PATTERNS
+Explanation: Speech patterns within normal range for age
+
+CLINICAL INTERPRETATION
+Speech Rate: Within normal range
+Pitch Variation: Normal prosodic range
+Energy Variation: Reduced vocal dynamics - mild concern
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+LOW PRIORITY - Continued monitoring advised
+Routine health monitoring
+Repeat assessment in 12-24 months
+Maintain healthy lifestyle practices

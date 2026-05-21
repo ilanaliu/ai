@@ -1,0 +1,56 @@
+Participant: AnettaBernard
+------------------------------
+Age: 83
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 208.33 BPM
+Pitch Variation: 222.60
+MFCC Score: 98.74
+Energy Variation: 0.0061
+Rhythm Score: 0.14
+Avg Pause Duration: 2.35s
+Pause Frequency: 0.15/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 23.66
+MFCC Mean: -14.72
+MFCC Skewness: -6.11
+MFCC Kurtosis: 36.57
+Energy Mean: 0.0020
+Zero Crossing Rate: 0.1741
+Total Pauses: 6
+Longest Pause: 9.06s
+Pause Variability: 3.09
+
+TRANSCRIPTION ANALYSIS
+Word Count: 14
+Average Word Length: 4.71
+Sentence Count: 2
+Average Sentence Length: 7.00
+Unique Words: 12
+Vocabulary Richness: 0.86
+
+RISK ASSESSMENT
+Overall Score: 17/50
+
+Risk Factors Detected:
+- Age 80-89 (high risk)
+- Very low energy variation (<0.01)
+- Very weak rhythm patterns (<0.15)
+- Excessive pause duration (>2s average)
+
+DIAGNOSTIC ASSESSMENT: MILD COGNITIVE CONCERNS
+Explanation: Some patterns detected - monitor closely
+
+CLINICAL INTERPRETATION
+Speech Rate: Elevated - may indicate anxiety or compensatory behavior
+Pitch Variation: Normal prosodic range
+Energy Variation: Reduced vocal dynamics - mild concern
+Pause Patterns: Excessive hesitation - may indicate word-finding difficulties
+
+RECOMMENDATION
+MODERATE PRIORITY - Further evaluation suggested
+Discuss findings with primary care physician
+Annual cognitive screening recommended
+Monitor for changes in daily functioning

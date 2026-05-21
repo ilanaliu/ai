@@ -1,0 +1,57 @@
+Participant: AnnieWebb
+------------------------------
+Age: 89
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 187.50 BPM
+Pitch Variation: 121.07
+MFCC Score: 107.21
+Energy Variation: 0.0030
+Rhythm Score: 0.19
+Avg Pause Duration: 6.78s
+Pause Frequency: 0.12/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 9.18
+MFCC Mean: -14.97
+MFCC Skewness: -5.97
+MFCC Kurtosis: 36.10
+Energy Mean: 0.0021
+Zero Crossing Rate: 0.1104
+Total Pauses: 4
+Longest Pause: 24.45s
+Pause Variability: 10.21
+
+TRANSCRIPTION ANALYSIS
+Word Count: 39
+Average Word Length: 3.69
+Sentence Count: 4
+Average Sentence Length: 9.75
+Unique Words: 31
+Vocabulary Richness: 0.79
+
+RISK ASSESSMENT
+Overall Score: 21/50
+
+Risk Factors Detected:
+- Age 80-89 (high risk)
+- Extremely low pitch variation (<150)
+- Extremely low energy variation (<0.005)
+- Weak rhythm patterns (<0.2)
+- Excessive pause duration (>2s average)
+
+DIAGNOSTIC ASSESSMENT: MILD COGNITIVE CONCERNS
+Explanation: Some patterns detected - monitor closely
+
+CLINICAL INTERPRETATION
+Speech Rate: Elevated - may indicate anxiety or compensatory behavior
+Pitch Variation: Severely reduced prosody - strong indicator of cognitive decline
+Energy Variation: Severely monotonic speech - concerning for dementia
+Pause Patterns: Excessive hesitation - may indicate word-finding difficulties
+
+RECOMMENDATION
+MODERATE PRIORITY - Further evaluation suggested
+Discuss findings with primary care physician
+Annual cognitive screening recommended
+Monitor for changes in daily functioning

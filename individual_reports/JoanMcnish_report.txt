@@ -1,0 +1,56 @@
+Participant: JoanMcnish
+------------------------------
+Age: 77
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 72.12 BPM
+Pitch Variation: 296.14
+MFCC Score: 103.01
+Energy Variation: 0.0055
+Rhythm Score: 0.17
+Avg Pause Duration: 0.43s
+Pause Frequency: 0.54/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 38.14
+MFCC Mean: -15.60
+MFCC Skewness: -6.14
+MFCC Kurtosis: 38.15
+Energy Mean: 0.0033
+Zero Crossing Rate: 0.1824
+Total Pauses: 13
+Longest Pause: 2.85s
+Pause Variability: 0.80
+
+TRANSCRIPTION ANALYSIS
+Word Count: 24
+Average Word Length: 4.71
+Sentence Count: 1
+Average Sentence Length: 24.00
+Unique Words: 21
+Vocabulary Richness: 0.88
+
+RISK ASSESSMENT
+Overall Score: 16/50
+
+Risk Factors Detected:
+- Age 75-79 (elevated risk)
+- Extremely slow speech rate (<80 BPM)
+- Very low energy variation (<0.01)
+- Weak rhythm patterns (<0.2)
+
+DIAGNOSTIC ASSESSMENT: MILD COGNITIVE CONCERNS
+Explanation: Some patterns detected - monitor closely
+
+CLINICAL INTERPRETATION
+Speech Rate: Severely reduced - may indicate motor or cognitive impairment
+Pitch Variation: Normal prosodic range
+Energy Variation: Reduced vocal dynamics - mild concern
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+MODERATE PRIORITY - Further evaluation suggested
+Discuss findings with primary care physician
+Annual cognitive screening recommended
+Monitor for changes in daily functioning
