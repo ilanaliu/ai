@@ -1,0 +1,30 @@
+MFCC Knowledge Test Results
+=========================
+Date: 2025-09-19 13:35:18
+Score: 3/5
+
+Question 1: How much did the lady's groceries cost?
+Your answer: A
+Correct answer: A
+Status: Correct
+
+Question 2: How much longer would signing up for the loyalty program take?
+Your answer: A
+Correct answer: B
+Status: Incorrect
+
+Question 3: What was the kale's sale?
+Your answer: C
+Correct answer: C
+Status: Correct
+
+Question 4: What was the kale's usual price?
+Your answer: C
+Correct answer: A
+Status: Incorrect
+
+Question 5: What sale did the candy have?
+Your answer: D
+Correct answer: D
+Status: Correct
+

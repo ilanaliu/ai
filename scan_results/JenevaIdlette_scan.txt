@@ -1,0 +1,15 @@
+Participant: JenevaIdlette
+Reference: 'A woman, pushing a cart overflowing with two hundred fifty dollars worth of groceries, paused,
+eyeing a large sign advertising a new loyalty program offering twenty percent off future purchases
+for signing up today. She considered the additional fifteen minutes of checkout time versus the potential
+savings. Her gaze drifted to the 2-for-$5 offer on organic kale, a stark contrast to the dollar-per-pound
+regular price. Decisions weighed on her, a tiny internal struggle between instant gratification and
+long-term value. Ultimately, the cart moved forward, a silent affirmation of habit winning out over the
+advertised deals. Rows of 3-for-$1 candy bars at the register waited, a last-ditch effort to tempt
+impulse buys as she approached the checkout conveyor belt.'
+Spoken: 'I don't know anything. I'm kind of like on... I just have so many sad stories. That's all. So I'm not good. I'm good at remembering things either, but I do okay. I live back in the day when we didn't have nothing, you know, like that. It's a long person. It's a lonely person. That's what I am. Yeah. Alright.'
+Word Error Rate (WER): 0.9640
+Character Error Rate (CER): 0.7849
+Semantic Similarity: 0.0983
+Assessment: INCORRECT
+Threshold: 0.65

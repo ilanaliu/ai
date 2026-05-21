@@ -1,0 +1,30 @@
+MFCC Knowledge Test Results
+=========================
+Date: 2025-09-05 13:45:55
+Score: 3/5
+
+Question 1: ¿Cuánto costaron los alimentos de la señora?
+Your answer: C
+Correct answer: A
+Status: Incorrect
+
+Question 2: ¿Cuánto tiempo más tardaría en inscribirse en el programa de fidelización?
+Your answer: C
+Correct answer: B
+Status: Incorrect
+
+Question 3: ¿Cuál fue la oferta del kale?
+Your answer: C
+Correct answer: C
+Status: Correct
+
+Question 4: ¿Cuál era el precio habitual del kale?
+Your answer: A
+Correct answer: A
+Status: Correct
+
+Question 5: ¿Qué venta tuvieron los dulces?
+Your answer: D
+Correct answer: D
+Status: Correct
+

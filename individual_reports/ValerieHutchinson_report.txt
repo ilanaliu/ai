@@ -1,0 +1,55 @@
+Participant: ValerieHutchinson
+------------------------------
+Age: 79
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 110.29 BPM
+Pitch Variation: 248.69
+MFCC Score: 85.75
+Energy Variation: 0.0069
+Rhythm Score: 0.18
+Avg Pause Duration: 0.74s
+Pause Frequency: 0.93/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 30.99
+MFCC Mean: -13.29
+MFCC Skewness: -6.19
+MFCC Kurtosis: 41.73
+Energy Mean: 0.0062
+Zero Crossing Rate: 0.1927
+Total Pauses: 52
+Longest Pause: 3.68s
+Pause Variability: 0.88
+
+TRANSCRIPTION ANALYSIS
+Word Count: 87
+Average Word Length: 4.18
+Sentence Count: 5
+Average Sentence Length: 17.40
+Unique Words: 50
+Vocabulary Richness: 0.57
+
+RISK ASSESSMENT
+Overall Score: 12/50
+
+Risk Factors Detected:
+- Age 75-79 (elevated risk)
+- Very low energy variation (<0.01)
+- Weak rhythm patterns (<0.2)
+
+DIAGNOSTIC ASSESSMENT: NO - NORMAL PATTERNS
+Explanation: Speech patterns within normal range for age
+
+CLINICAL INTERPRETATION
+Speech Rate: Within normal range
+Pitch Variation: Normal prosodic range
+Energy Variation: Reduced vocal dynamics - mild concern
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+LOW PRIORITY - Continued monitoring advised
+Routine health monitoring
+Repeat assessment in 12-24 months
+Maintain healthy lifestyle practices

@@ -1,0 +1,15 @@
+Participant: SeetaSignh
+Reference: 'A woman, pushing a cart overflowing with two hundred fifty dollars worth of groceries, paused,
+eyeing a large sign advertising a new loyalty program offering twenty percent off future purchases
+for signing up today. She considered the additional fifteen minutes of checkout time versus the potential
+savings. Her gaze drifted to the 2-for-$5 offer on organic kale, a stark contrast to the dollar-per-pound
+regular price. Decisions weighed on her, a tiny internal struggle between instant gratification and
+long-term value. Ultimately, the cart moved forward, a silent affirmation of habit winning out over the
+advertised deals. Rows of 3-for-$1 candy bars at the register waited, a last-ditch effort to tempt
+impulse buys as she approached the checkout conveyor belt.'
+Spoken: 'I got a card. I'm going to the store and I look at the labels of price on the shelf. I try to buy like $250 worth of stuff to fill up my card. But first I see what price is available, if they have sales price, or how much will be the cost of all my groceries. So I bought some for like $5. Look for the percentage off. So when I come next time, I'll know how much money to buy. I try to buy whatever I need.'
+Word Error Rate (WER): 0.9640
+Character Error Rate (CER): 0.7379
+Semantic Similarity: 0.3775
+Assessment: INCORRECT
+Threshold: 0.65

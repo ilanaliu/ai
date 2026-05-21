@@ -1,0 +1,15 @@
+Participant: JoanMcnish
+Reference: 'A woman, pushing a cart overflowing with two hundred fifty dollars worth of groceries, paused,
+eyeing a large sign advertising a new loyalty program offering twenty percent off future purchases
+for signing up today. She considered the additional fifteen minutes of checkout time versus the potential
+savings. Her gaze drifted to the 2-for-$5 offer on organic kale, a stark contrast to the dollar-per-pound
+regular price. Decisions weighed on her, a tiny internal struggle between instant gratification and
+long-term value. Ultimately, the cart moved forward, a silent affirmation of habit winning out over the
+advertised deals. Rows of 3-for-$1 candy bars at the register waited, a last-ditch effort to tempt
+impulse buys as she approached the checkout conveyor belt.'
+Spoken: 'Okay, this is young this lady went to the grocery store and I assume she likes everything that was there everything was quite reasonable'
+Word Error Rate (WER): 0.9820
+Character Error Rate (CER): 0.8579
+Semantic Similarity: 0.5091
+Assessment: INCORRECT
+Threshold: 0.65

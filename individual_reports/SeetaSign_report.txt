@@ -1,0 +1,48 @@
+Participant: SeetaSign
+------------------------------
+Age: 75
+Health Status:  no_history
+
+ACOUSTIC SCORES
+Speech Rate: 133.93 BPM
+Pitch Variation: 151.21
+MFCC Score: 57.02
+Energy Variation: 0.1257
+Rhythm Score: 0.18
+Avg Pause Duration: 0.68s
+Pause Frequency: 0.55/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 12.52
+MFCC Mean: -6.14
+MFCC Skewness: -5.81
+MFCC Kurtosis: 41.21
+Energy Mean: 0.1009
+Zero Crossing Rate: 0.1351
+Total Pauses: 34
+Longest Pause: 4.32s
+Pause Variability: 0.92
+
+RISK ASSESSMENT
+Overall Score: 16/50
+
+Risk Factors Detected:
+- Age 75-79 (elevated risk)
+- Very low pitch variation (<180)
+- Very low MFCC variability (<70)
+- Weak rhythm patterns (<0.2)
+
+DIAGNOSTIC ASSESSMENT: MILD COGNITIVE CONCERNS
+Explanation: Some patterns detected - monitor closely
+
+CLINICAL INTERPRETATION
+Speech Rate: Within normal range
+Pitch Variation: Reduced prosody - possible early cognitive changes
+Energy Variation: Normal vocal dynamics
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+MODERATE PRIORITY - Further evaluation suggested
+Discuss findings with primary care physician
+Annual cognitive screening recommended
+Monitor for changes in daily functioning

@@ -1,0 +1,113 @@
+SPEECH ACCURACY ANALYSIS SUMMARY
+============================================================
+
+Total participants scanned: 15
+Reference text: A woman, pushing a cart overflowing with two hundred fifty dollars worth of groceries, paused,
+eyeing a large sign advertising a new loyalty program offering twenty percent off future purchases
+for signing up today. She considered the additional fifteen minutes of checkout time versus the potential
+savings. Her gaze drifted to the 2-for-$5 offer on organic kale, a stark contrast to the dollar-per-pound
+regular price. Decisions weighed on her, a tiny internal struggle between instant gratification and
+long-term value. Ultimately, the cart moved forward, a silent affirmation of habit winning out over the
+advertised deals. Rows of 3-for-$1 candy bars at the register waited, a last-ditch effort to tempt
+impulse buys as she approached the checkout conveyor belt.
+
+INDIVIDUAL RESULTS:
+------------------------------------------------------------
+
+MargheritaHerrera:
+  WER: 0.9279 (92.79%)
+  CER: 0.7744 (77.44%)
+  Semantic Similarity: 0.6427 (64.27%)
+  Status: ✗ INCORRECT
+
+AnettaBernard:
+  WER: 0.9369 (93.69%)
+  CER: 0.9061 (90.61%)
+  Semantic Similarity: 0.6439 (64.39%)
+  Status: ✗ INCORRECT
+
+ValerieHutchinson:
+  WER: 0.9369 (93.69%)
+  CER: 0.6923 (69.23%)
+  Semantic Similarity: 0.5735 (57.35%)
+  Status: ✗ INCORRECT
+
+AnnieWebb:
+  WER: 0.9459 (94.59%)
+  CER: 0.8253 (82.53%)
+  Semantic Similarity: 0.4718 (47.18%)
+  Status: ✗ INCORRECT
+
+EloraCampbell:
+  WER: 0.9459 (94.59%)
+  CER: 0.8331 (83.31%)
+  Semantic Similarity: 0.5187 (51.87%)
+  Status: ✗ INCORRECT
+
+VioletaJakab:
+  WER: 0.9550 (95.50%)
+  CER: 0.7184 (71.84%)
+  Semantic Similarity: 0.7171 (71.71%)
+  Status: ✓ CORRECT
+
+JenevaIdlette:
+  WER: 0.9640 (96.40%)
+  CER: 0.7849 (78.49%)
+  Semantic Similarity: 0.0983 (9.83%)
+  Status: ✗ INCORRECT
+
+SeetaSignh:
+  WER: 0.9640 (96.40%)
+  CER: 0.7379 (73.79%)
+  Semantic Similarity: 0.3775 (37.75%)
+  Status: ✗ INCORRECT
+
+EstellaRiveraFreeland:
+  WER: 0.9730 (97.30%)
+  CER: 0.7249 (72.49%)
+  Semantic Similarity: 0.5746 (57.46%)
+  Status: ✗ INCORRECT
+
+JoanMcnish:
+  WER: 0.9820 (98.20%)
+  CER: 0.8579 (85.79%)
+  Semantic Similarity: 0.5091 (50.91%)
+  Status: ✗ INCORRECT
+
+LuceMedina:
+  WER: 1.0000 (100.00%)
+  CER: 0.8709 (87.09%)
+  Semantic Similarity: 0.1155 (11.55%)
+  Status: ✗ INCORRECT
+
+DianeYork:
+  WER: 1.1261 (112.61%)
+  CER: 0.7184 (71.84%)
+  Semantic Similarity: 0.7889 (78.89%)
+  Status: ✓ CORRECT
+
+SueHurse:
+  WER: 1.2072 (120.72%)
+  CER: 0.7536 (75.36%)
+  Semantic Similarity: 0.5759 (57.59%)
+  Status: ✗ INCORRECT
+
+InildaPena:
+  WER: 1.3604 (136.04%)
+  CER: 0.8005 (80.05%)
+  Semantic Similarity: 0.4881 (48.81%)
+  Status: ✗ INCORRECT
+
+KatherineDowningAhmed:
+  WER: 1.4595 (145.95%)
+  CER: 0.7992 (79.92%)
+  Semantic Similarity: 0.7662 (76.62%)
+  Status: ✓ CORRECT
+
+============================================================
+STATISTICS:
+------------------------------------------------------------
+Average WER: 1.0456 (104.56%)
+Average CER: 0.7865 (78.65%)
+Average Semantic Similarity: 0.5241 (52.41%)
+Correct assessments: 3/15 (20.00%)

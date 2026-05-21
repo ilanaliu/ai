@@ -1,0 +1,15 @@
+Participant: KatherineDowningAhmed
+Reference: 'A woman, pushing a cart overflowing with two hundred fifty dollars worth of groceries, paused,
+eyeing a large sign advertising a new loyalty program offering twenty percent off future purchases
+for signing up today. She considered the additional fifteen minutes of checkout time versus the potential
+savings. Her gaze drifted to the 2-for-$5 offer on organic kale, a stark contrast to the dollar-per-pound
+regular price. Decisions weighed on her, a tiny internal struggle between instant gratification and
+long-term value. Ultimately, the cart moved forward, a silent affirmation of habit winning out over the
+advertised deals. Rows of 3-for-$1 candy bars at the register waited, a last-ditch effort to tempt
+impulse buys as she approached the checkout conveyor belt.'
+Spoken: 'Okay, a woman was shopping and she had a cart, was pushing a cart with $250 worth of groceries. She noticed a big sign that says that you can sign up for a club that you can save 20% on all your purchases in the future, but it would take 15 minutes to do the paperwork. So she was thinking about the savings, but she also knew that it would take some time for her today, and she had to decide which one was more important. And then as she was, oh, then her cart moved forward, which was a habit to move forward, and that makes a difference, decides for you. And then at the counter when she came to the, what is it, the, I don't know, I can't remember what it's called, but whatever, put the groceries on the checkout. She saw a sign too for candy bars for three for $1, and that was a last-ditch effort to get her to sign up for the program, or to get her to buy it. So that's the end.'
+Word Error Rate (WER): 1.4595
+Character Error Rate (CER): 0.7992
+Semantic Similarity: 0.7662
+Assessment: CORRECT
+Threshold: 0.65

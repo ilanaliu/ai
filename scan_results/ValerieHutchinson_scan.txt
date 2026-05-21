@@ -1,0 +1,15 @@
+Participant: ValerieHutchinson
+Reference: 'A woman, pushing a cart overflowing with two hundred fifty dollars worth of groceries, paused,
+eyeing a large sign advertising a new loyalty program offering twenty percent off future purchases
+for signing up today. She considered the additional fifteen minutes of checkout time versus the potential
+savings. Her gaze drifted to the 2-for-$5 offer on organic kale, a stark contrast to the dollar-per-pound
+regular price. Decisions weighed on her, a tiny internal struggle between instant gratification and
+long-term value. Ultimately, the cart moved forward, a silent affirmation of habit winning out over the
+advertised deals. Rows of 3-for-$1 candy bars at the register waited, a last-ditch effort to tempt
+impulse buys as she approached the checkout conveyor belt.'
+Spoken: 'A woman was shopping for groceries in a mall and she saw a sign instead of focusing on her cart and her purchase, she saw a sign and she wanted to buy what the sign said. She wanted to buy two for one instead of one per pound. This means that the sign always gets our attention. We are always looking for the cheapest stuff instead of the sign that they advertise to catch our attention. We always focus on that instead of doing our regular shopping.'
+Word Error Rate (WER): 0.9369
+Character Error Rate (CER): 0.6923
+Semantic Similarity: 0.5735
+Assessment: INCORRECT
+Threshold: 0.65

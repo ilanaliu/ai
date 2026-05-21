@@ -1,0 +1,15 @@
+Participant: SueHurse
+Reference: 'A woman, pushing a cart overflowing with two hundred fifty dollars worth of groceries, paused,
+eyeing a large sign advertising a new loyalty program offering twenty percent off future purchases
+for signing up today. She considered the additional fifteen minutes of checkout time versus the potential
+savings. Her gaze drifted to the 2-for-$5 offer on organic kale, a stark contrast to the dollar-per-pound
+regular price. Decisions weighed on her, a tiny internal struggle between instant gratification and
+long-term value. Ultimately, the cart moved forward, a silent affirmation of habit winning out over the
+advertised deals. Rows of 3-for-$1 candy bars at the register waited, a last-ditch effort to tempt
+impulse buys as she approached the checkout conveyor belt.'
+Spoken: 'And the grocery shopping, I'll explain about the different type of items, like the kale, and the organic. There's one for the raw kale, and the organic also, there's one for that also, with different prices. And there's a lot of different things that you can do with the kale. So, I'll explain what I did. I went to the grocery store, and there was a shop, grocery shopper, that's a short time doing the shopping she was doing, and she was doing it in the order that she felt was comfortable for her to do it. She wasn't fast, she was doing it slowly, so she wouldn't forget what she was doing. In order to do it, she was going to pick up a bunch of vegetables, she had to pick up in a certain time in order to do it.'
+Word Error Rate (WER): 1.2072
+Character Error Rate (CER): 0.7536
+Semantic Similarity: 0.5759
+Assessment: INCORRECT
+Threshold: 0.65

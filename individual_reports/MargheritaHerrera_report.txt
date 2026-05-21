@@ -1,0 +1,56 @@
+Participant: MargheritaHerrera
+------------------------------
+Age: 86
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 133.93 BPM
+Pitch Variation: 176.50
+MFCC Score: 106.66
+Energy Variation: 0.0020
+Rhythm Score: 0.21
+Avg Pause Duration: 31.30s
+Pause Frequency: 0.02/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 16.04
+MFCC Mean: -14.96
+MFCC Skewness: -6.01
+MFCC Kurtosis: 37.51
+Energy Mean: 0.0019
+Zero Crossing Rate: 0.1699
+Total Pauses: 1
+Longest Pause: 31.30s
+Pause Variability: 0.00
+
+TRANSCRIPTION ANALYSIS
+Word Count: 57
+Average Word Length: 4.21
+Sentence Count: 5
+Average Sentence Length: 11.40
+Unique Words: 41
+Vocabulary Richness: 0.72
+
+RISK ASSESSMENT
+Overall Score: 19/50
+
+Risk Factors Detected:
+- Age 80-89 (high risk)
+- Very low pitch variation (<180)
+- Extremely low energy variation (<0.005)
+- Excessive pause duration (>2s average)
+
+DIAGNOSTIC ASSESSMENT: MILD COGNITIVE CONCERNS
+Explanation: Some patterns detected - monitor closely
+
+CLINICAL INTERPRETATION
+Speech Rate: Within normal range
+Pitch Variation: Reduced prosody - possible early cognitive changes
+Energy Variation: Severely monotonic speech - concerning for dementia
+Pause Patterns: Excessive hesitation - may indicate word-finding difficulties
+
+RECOMMENDATION
+MODERATE PRIORITY - Further evaluation suggested
+Discuss findings with primary care physician
+Annual cognitive screening recommended
+Monitor for changes in daily functioning

@@ -1,0 +1,54 @@
+Participant: LuceMedina
+------------------------------
+Age: 81
+Health Status:  cognitive_decline
+
+ACOUSTIC SCORES
+Speech Rate: 125.00 BPM
+Pitch Variation: 215.62
+MFCC Score: 61.81
+Energy Variation: 0.1111
+Rhythm Score: 0.21
+Avg Pause Duration: 0.74s
+Pause Frequency: 0.59/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 20.47
+MFCC Mean: -6.03
+MFCC Skewness: -5.80
+MFCC Kurtosis: 40.60
+Energy Mean: 0.0869
+Zero Crossing Rate: 0.0967
+Total Pauses: 8
+Longest Pause: 2.62s
+Pause Variability: 0.82
+
+TRANSCRIPTION ANALYSIS
+Word Count: 29
+Average Word Length: 3.83
+Sentence Count: 3
+Average Sentence Length: 9.67
+Unique Words: 22
+Vocabulary Richness: 0.76
+
+RISK ASSESSMENT
+Overall Score: 14/50
+
+Risk Factors Detected:
+- Age 80-89 (high risk)
+- Very low MFCC variability (<70)
+
+DIAGNOSTIC ASSESSMENT: NO - NORMAL PATTERNS
+Explanation: Speech patterns within normal range for age
+
+CLINICAL INTERPRETATION
+Speech Rate: Within normal range
+Pitch Variation: Normal prosodic range
+Energy Variation: Normal vocal dynamics
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+LOW PRIORITY - Continued monitoring advised
+Routine health monitoring
+Repeat assessment in 12-24 months
+Maintain healthy lifestyle practices

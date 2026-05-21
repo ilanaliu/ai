@@ -1,0 +1,15 @@
+Participant: DianeYork
+Reference: 'A woman, pushing a cart overflowing with two hundred fifty dollars worth of groceries, paused,
+eyeing a large sign advertising a new loyalty program offering twenty percent off future purchases
+for signing up today. She considered the additional fifteen minutes of checkout time versus the potential
+savings. Her gaze drifted to the 2-for-$5 offer on organic kale, a stark contrast to the dollar-per-pound
+regular price. Decisions weighed on her, a tiny internal struggle between instant gratification and
+long-term value. Ultimately, the cart moved forward, a silent affirmation of habit winning out over the
+advertised deals. Rows of 3-for-$1 candy bars at the register waited, a last-ditch effort to tempt
+impulse buys as she approached the checkout conveyor belt.'
+Spoken: 'Lady was shopping. She had her cart was with $250 worth of groceries, and as she was going to the checkout, she went by a sign that said if she signed up for a loyalty program, she would get 20% off. She decided if she was going to do that at waiting for, maybe 15 minutes out of her time, or she'd just go. And on her way to the register, she saw a sign for kale, two for $5, when she was thinking to herself that that was pretty good considering it used to be a dollar a pound. And then she decided to do what she normally did and just go to the checkout counter where she saw candy, and in a last ditch effort to buy candy for three for a dollar.'
+Word Error Rate (WER): 1.1261
+Character Error Rate (CER): 0.7184
+Semantic Similarity: 0.7889
+Assessment: CORRECT
+Threshold: 0.65

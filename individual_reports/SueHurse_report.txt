@@ -1,0 +1,56 @@
+Participant: SueHurse
+------------------------------
+Age: 70
+Health Status: no_history
+
+ACOUSTIC SCORES
+Speech Rate: 81.52 BPM
+Pitch Variation: 230.53
+MFCC Score: 80.22
+Energy Variation: 0.0061
+Rhythm Score: 0.17
+Avg Pause Duration: 0.96s
+Pause Frequency: 0.88/s
+
+DETAILED ACOUSTIC ANALYSIS
+Pitch Mean: 24.55
+MFCC Mean: -12.49
+MFCC Skewness: -5.84
+MFCC Kurtosis: 36.44
+Energy Mean: 0.0059
+Zero Crossing Rate: 0.1756
+Total Pauses: 49
+Longest Pause: 5.06s
+Pause Variability: 1.00
+
+TRANSCRIPTION ANALYSIS
+Word Count: 142
+Average Word Length: 4.06
+Sentence Count: 7
+Average Sentence Length: 20.29
+Unique Words: 74
+Vocabulary Richness: 0.52
+
+RISK ASSESSMENT
+Overall Score: 12/50
+
+Risk Factors Detected:
+- Age 70-74 (moderate risk)
+- Very slow speech rate (<90 BPM)
+- Very low energy variation (<0.01)
+- Weak rhythm patterns (<0.2)
+
+DIAGNOSTIC ASSESSMENT: NO - NORMAL PATTERNS
+Explanation: Speech patterns within normal range for age
+
+CLINICAL INTERPRETATION
+Speech Rate: Below normal - possible mild cognitive decline
+Pitch Variation: Normal prosodic range
+Energy Variation: Reduced vocal dynamics - mild concern
+Pause Patterns: Normal speech fluency
+
+RECOMMENDATION
+LOW PRIORITY - Continued monitoring advised
+Routine health monitoring
+Repeat assessment in 12-24 months
+Maintain healthy lifestyle practices
