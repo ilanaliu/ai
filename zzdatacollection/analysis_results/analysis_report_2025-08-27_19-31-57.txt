@@ -1,0 +1,38 @@
+Comprehensive Analysis Report
+==============================
+
+Files Analyzed:
+--------------------
+DianeYork
+Cluster: 2
+Features: {'mfcc_mean': np.float32(-12.939244), 'pitch_mean': np.float32(21.542683), 'mel_mean': np.float32(0.08981045), 'duration': 60.0}
+
+EloraCampbell
+Cluster: 1
+Features: {'mfcc_mean': np.float32(-14.091731), 'pitch_mean': np.float32(20.262835), 'mel_mean': np.float32(0.011600212), 'duration': 39.312}
+
+SueHurse
+Cluster: 0
+Features: {'mfcc_mean': np.float32(-12.491241), 'pitch_mean': np.float32(24.550453), 'mel_mean': np.float32(0.016791856), 'duration': 55.5099375}
+
+ValerieHutchinson
+Cluster: 2
+Features: {'mfcc_mean': np.float32(-13.289005), 'pitch_mean': np.float32(30.98569), 'mel_mean': np.float32(0.019181415), 'duration': 55.952}
+
+VioletaJakab
+Cluster: 0
+Features: {'mfcc_mean': np.float32(-12.118235), 'pitch_mean': np.float32(15.760916), 'mel_mean': np.float32(0.09721412), 'duration': 54.678}
+
+
+Similarity Analysis:
+--------------------
+DianeYork vs EloraCampbell: -28.47% similar
+DianeYork vs SueHurse: -32.86% similar
+DianeYork vs ValerieHutchinson: -7.95% similar
+DianeYork vs VioletaJakab: -8.29% similar
+EloraCampbell vs SueHurse: -31.27% similar
+EloraCampbell vs ValerieHutchinson: -31.27% similar
+EloraCampbell vs VioletaJakab: -29.83% similar
+SueHurse vs ValerieHutchinson: -29.56% similar
+SueHurse vs VioletaJakab: -6.34% similar
+ValerieHutchinson vs VioletaJakab: -39.40% similar

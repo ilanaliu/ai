@@ -1,0 +1,15 @@
+AnnieWebb,89,no_history
+DianeYork,73,no_history
+EloraCampbell,75,no_history
+JoanMcnish,77,no_history
+SueHurse,70,no_history
+ValerieHutchinson,79,no_history
+VioletaJakab,69,no_history
+MargheritaHerrera,86,no_history
+EstelleRivera-Freeland,81,no_history
+JenevaIdlette,93,early_alzheimers
+AnettaBernard,83,no_history
+KatherineDowningAhmed,77,no_history
+InildaPena, 75, no_history
+SeetaSign, 75, no_history
+LuceMedina, 81, cognitive_decline
